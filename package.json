@@ -4,7 +4,7 @@
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "@dalongrong/easytier-ffi-napi",
+    "name": "easytier-ffi-napi",
     "triples": {}
   },
   "license": "MIT",
