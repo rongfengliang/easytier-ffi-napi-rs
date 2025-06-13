@@ -1,0 +1,18 @@
+{
+  "name": "@dalongrong/-ffi-napi-darwin-x64",
+  "version": "0.0.1",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "easytier-ffi-napi.darwin-x64.node",
+  "files": [
+    "easytier-ffi-napi.darwin-x64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
