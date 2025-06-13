@@ -11,6 +11,7 @@ const { platform, arch } = process
 
 let nativeBinding = null
 let localFileExisted = false
+
 let loadError = null
 
 function isMusl() {
